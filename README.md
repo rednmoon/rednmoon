@@ -15,13 +15,13 @@
   </a>
 </p>
 
-<!-- Custom Professional Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mahmudul%20Hasan%20Lalon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%" alt="Profile Banner" />
+<!-- Capsule Render Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mahmudul%20Hasan%20Lalon&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=WordPress%20%7C%20Elementor%20%7C%20Laravel&descAlignY=55&descSize=16" width="100%" alt="Profile Banner" />
 
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=WordPress+Developer;Elementor+Expert;Laravel+Developer;CodeIgniter+Developer;Frontend+Developer" alt="Typing Animation">
 </div>
-
-
-
 ## 🚀 About Me
 
 I'm a passionate **Web Developer** focused on creating modern, responsive, and user-friendly web experiences. I enjoy transforming ideas into functional websites and applications while keeping the code clean, maintainable, and scalable.
