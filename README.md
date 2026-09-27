@@ -28,12 +28,12 @@ About Me
 
 I'm a passionate **Web Developer** focused on creating modern, responsive, and user-friendly web experiences. I enjoy transforming ideas into functional websites and applications while keeping the code clean, maintainable, and scalable.
 
-- 🔭 Currently working on projects through **Fiverr**
-- 🌱 Currently learning **JavaScript**
-- 👯 Open to collaborating on **GitHub projects**
-- 💬 Ask me about **Web Development, WordPress & PHP**
-- ⚡ Fun fact: I enjoy learning new technologies and building things for the web
-- 😄 Pronouns: **He/Him**
+- Currently working on projects through **Fiverr**
+- Currently learning **JavaScript**
+- Open to collaborating on **GitHub projects**
+- Ask me about **Web Development, WordPress & PHP**
+- Fun fact: I enjoy learning new technologies and building things for the web
+- Pronouns: **He/Him**
 
 
 
